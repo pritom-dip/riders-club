@@ -1,0 +1,10 @@
+.custom-bg{
+    background-image: url('../../Bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}

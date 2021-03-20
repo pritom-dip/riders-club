@@ -1,0 +1,19 @@
+.single-ride{
+    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
+    background: #f1f1f1;
+    cursor: pointer;
+}
+.single-ride .card-body{
+    padding-bottom: 0px;
+}
+.custom-ride a{
+    text-decoration: none;
+    color: #000;
+}
+.single-ride h3{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+}

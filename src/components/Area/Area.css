@@ -1,0 +1,24 @@
+.select-area-wrapper{
+    background-color: #EFEFEF;
+    padding: 20px;
+    border-radius: 10px;
+}
+.site-btn{
+    width: 100%;
+    background-color: #FF6E40;
+    border:1px solid #FF6E40;
+}
+.site-btn:hover, .site-btn:focus, .site-btn:active{
+    background-color: #E84511;
+    border:1px solid #FF6E40;
+    box-shadow:none;
+}
+.orange-bg{
+    background-color: #FF6E40;
+}
+.selected-area, .border-10{
+    border-radius: 10px;
+}
+.category{
+    margin-left: 20px;
+}
